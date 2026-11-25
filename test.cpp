@@ -14,5 +14,14 @@ int main()
 
     cout << "The Product is: " << product << endl;
 
+    
+    cout << "The Sum is: " << sum << endl;
+
+    int i = 3;
+    int k = 6;
+    int subtract = i - k;
+
+    cout<<"the subtraction is : "<< sum << endl;
+    
     return 0;
 }
